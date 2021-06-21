@@ -1,5 +1,9 @@
 # name acronyms
 
+> "If I'm gonna tell a real story, I'm gonna start with my name." - Kendrick Lamar
+
+Find your destiny 🔮 in computer science🖥️📚 just by looking at the acronyms present in your name!
+
 are you curious to know what kind of Computer Science & IT acronyms are present in your name? are you curious to know what kind of file extension acronyms are present in your name?
 
 Lame, but I did the job of finding what all are present for my name. Actually works on any string tho.
